@@ -10,4 +10,4 @@
 
 ## Como usar 
 
-> Pode ser executado no navegador usando o caminho onde esta localizado o arquivo index.html e colocando o caminho na url do seu navegador, ou precisone as teclas CTRL + O para abrir um arquivo , basta entao selecionar o arquivo index.html e pronto
+> Pode ser executado no navegador usando o caminho onde esta localizado o arquivo index.html e colocando o caminho na url do seu navegador, ou precione as teclas CTRL + O para abrir um arquivo , basta entao selecionar o arquivo index.html e pronto
